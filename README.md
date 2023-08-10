@@ -1,11 +1,12 @@
 ### Olá! Me chamo Nathalia 👋🖥️🚀
 
 <hr>
-<div style="display: inline_block">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ZdeAttre&show_icons=true&theme=cobalt">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZdeAttre&layout=compact">
+<div>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ZdeAttre&show_icons=true&theme=cobalt">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZdeAttre&layout=compact">
 </div>
 <hr>
+
 #### Tecnologias que utilizo no meu dia a dia
 <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
