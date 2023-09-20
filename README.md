@@ -2,7 +2,7 @@
 
 <hr>
 <div align="center">
-    <img width=40% height=50% src="https://github-readme-stats.vercel.app/api?username=ZdeAttre&show_icons=true&theme=transparent">
+    <img width=43% height=50% src="https://github-readme-stats.vercel.app/api?username=ZdeAttre&show_icons=true&theme=transparent">
     <img width=45% height=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZdeAttre&layout=compact">
 </div>
 <hr>
