@@ -2,8 +2,8 @@
 
 <hr>
 <div align="center">
-    <img height=160 src="https://github-readme-stats.vercel.app/api?username=ZdeAttre&show_icons=true&theme=transparent">
-    <img height=155 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZdeAttre&layout=compact">
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=ZdeAttre&show_icons=true&theme=transparent">
+    <img height=177 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZdeAttre&layout=compact">
 </div>
 <hr>
 
